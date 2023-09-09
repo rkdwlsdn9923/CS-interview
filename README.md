@@ -7,3 +7,10 @@
    - 데이터베이스
    - 프로그래밍언어론
    ----------------
+
+   업무 향상을 위한 공부
+     
+   - Embedded Linux
+   - Network IPC socket, RTSP, sdk/api
+   - C++ clean code
+   - english TOEIC, OPIC
